@@ -2,7 +2,7 @@
   
 <br/> 
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to new technologies  
   
 
 - ⚡ Fun fact: I dance salsa and bachata  
